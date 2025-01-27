@@ -10,7 +10,20 @@ header {
     color: white;
     text-shadow: 2px 1px 2px black;
     font-family: 'Courier New';
-    }
+}
+
+h1 {
+    margin-top: 0;
+    margin-left: 10px;
+}
+
+#header-the {
+    position: relative;
+    font-size: 15px;
+    left:  25px;
+    top: 20px;
+    margin-top: 10px;
+}
 
 /********************/
 /** title and info **/
