@@ -1,0 +1,101 @@
+main, footer, h1 {
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+header {
+    /* background */
+    background-color: cornflowerblue;
+    background-image: url("/img/pattern.png");
+    background-size: 30%;
+    padding-top: 25px;
+    
+    
+
+    /* text  */
+    color: white;
+    text-shadow: 2px 1px 2px black;
+    font-family: 'Courier New';
+    }
+
+/********************/
+/** title and info **/
+/********************/
+
+#h2-main {
+    font-size: 50px;
+    margin-bottom: 0;
+}
+
+#p-main1 {
+    margin-bottom: 0;
+    margin-top: 0;
+    color: darkgray;
+}
+
+#p-main2 {
+    margin-top: 0;
+    color: darkgray;
+}
+
+/*********************/
+/** first text area **/
+/*********************/
+
+#p-description-images {
+    font-size: 12px;
+    margin-top: 0;
+}
+
+ul {
+    padding-left: 1%;
+}
+
+/*********************/
+/******* table *******/
+/*********************/
+
+table {
+    width: 100%;
+    tr:nth-child(odd) {background-color:cornflowerblue}
+    border-collapse: collapse;
+    
+
+
+}
+
+th {
+    text-align: left;
+    color: white;
+    background-color: dodgerblue;
+
+}
+
+td {
+    text-align: left;
+    padding: 10px;
+    padding-left: 0;
+}
+
+/*********************/
+/******* footer ******/
+/*********************/
+
+#footer-text {
+    color: darkgrey;
+}
+
+.footer-img1 {
+    width: 311px;
+    height: 208px;
+    background-image: url("/img/monitor.jpg");
+    color: white;
+    
+}
+
+.footer-img2 {
+    width: 311px;
+    height: 208px;
+    background-image: url("/img/graph.jpg");
+    color: white;
+}
