@@ -1,0 +1,14 @@
+header {
+    /* background */
+    background-color: cornflowerblue;
+    background-image: url("/img/pattern.png");
+    background-size: 30%;
+    height: 70px;
+    padding-top: 25px;
+
+    /* text  */
+    color: white;
+    font-family: caption;
+    text-shadow: 2px 1px 2px black;
+    font-family: 'Courier New';
+    }
