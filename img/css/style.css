@@ -71,3 +71,25 @@ td {
     padding-left: 0;
 }
 
+/*********************/
+/******* footer ******/
+/*********************/
+
+#footer-text {
+    color: darkgrey;
+}
+
+.footer-img1 {
+    width: 311px;
+    height: 208px;
+    background-image: url("/img/monitor.jpg");
+    color: white;
+    
+}
+
+.footer-img2 {
+    width: 311px;
+    height: 208px;
+    background-image: url("/img/graph.jpg");
+    color: white;
+}
